@@ -1,0 +1,6 @@
+{
+  "ignore": ["server/*"],
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
